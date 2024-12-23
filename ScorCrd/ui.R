@@ -11,7 +11,7 @@ shinyUI(
 
     # Header
     dashboardHeader(
-      title = 'HNB-零售银行部'
+      title = 'jonh zou'
       ),
     
     # Siderbar

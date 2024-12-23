@@ -13,7 +13,7 @@ DEBUG_FLAG = 1
 options(shiny.maxRequestSize=30*1024^2)
 #print(getOption("shiny.maxRequestSize"))
 #加载库文件
-source("G:/MyPrj/ScorCrd_v2.1.x/ScorCrd/require_libs.R", local=T, encoding="UTF-8")
+#source("{你的目录}/require_libs.R", local=T, encoding="UTF-8")
 
 #日志
 flog.appender(appender.file("ScorCrd-INFO.log"),'INFO')
