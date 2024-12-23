@@ -1,0 +1,15 @@
+INFO [2023-02-15 09:43:57] obs_menuItem_A2.plot_grid:  simpleWarning: Computation failed in `stat_density2d()`:
+bandwidths must be strictly positive
+
+INFO [2023-02-15 09:53:43] obs_menuItem_A2.plot_grid:  simpleWarning: Computation failed in `stat_density2d()`:
+bandwidths must be strictly positive
+
+INFO [2023-02-15 09:53:57] obs_menuItem_A2.plot_grid:  simpleWarning: Computation failed in `stat_density2d()`:
+bandwidths must be strictly positive
+
+INFO [2023-02-15 09:55:45] obs_menuItem_A2.plot_grid:  simpleWarning: Computation failed in `stat_density2d()`:
+bandwidths must be strictly positive
+
+INFO [2023-02-15 09:57:12] obs_menuItem_A2.plot_grid:  simpleWarning: Computation failed in `stat_density2d()`:
+bandwidths must be strictly positive
+

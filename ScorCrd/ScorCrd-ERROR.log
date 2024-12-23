@@ -1,0 +1,26 @@
+INFO [2023-02-01 15:33:45] obs_menuItem_A2.chart.Correlation:  Error in pairs.default(x, gap = 0, lower.panel = panel.smooth, upper.panel = panel.cor, : non-numeric argument to 'pairs'
+
+INFO [2023-02-15 09:42:28] obs_menuItem_A.mSample:  Error in sample.int(length(x), size, replace, prob): invalid first argument
+
+INFO [2023-02-16 16:49:59] obs_menuItem_B.woebin:  Error in parse(text = woebin_breaks_list): <text>:2:0: unexpected end of input
+1: list(申请地点=c("东方，昌江，乐东，三亚，五指山，陵水","海口，文昌，琼海，澄迈","琼中，白沙，定安，屯昌，万宁","省外")
+   ^
+
+INFO [2023-02-16 16:54:36] obs_menuItem_B.woebin:  Error in parse(text = woebin_breaks_list): <text>:1:117: unexpected symbol
+1: list(申请地点=c("东方,昌江,乐东,三亚,五指山,陵水","海口,文昌,琼海,澄迈","琼中,白沙,定安,屯昌,万宁,保亭","省外")<U+00A0
+                                                                                                                        ^
+
+INFO [2023-02-16 16:55:33] obs_menuItem_B.woebin:  Error in parse(text = woebin_breaks_list): <text>:1:127: unexpected symbol
+1: list(申请地点=c("东方,昌江,乐东,三亚,五指山,陵水,儋州,临高","海口,文昌,琼海,澄迈","琼中,白沙,定安,屯昌,万宁,保亭","省外")<U+00A0
+                                                                                                                                  ^
+
+INFO [2023-02-16 17:04:47] obs_menuItem_B.woebin:  Error in parse(text = woebin_breaks_list): <text>:1:127: unexpected symbol
+1: list(申请地点=c("东方,昌江,乐东,三亚,儋州,澄迈,临高","海口,文昌,琼海,万宁,陵水","琼中,白沙,定安,屯昌,五指山,保亭","省外")<U+00A0
+                                                                                                                                  ^
+
+INFO [2023-02-16 17:36:59] obs_menuItem_B.woebin:  Error in parse(text = woebin_special_values): <text>:1:127: unexpected symbol
+1: list(申请地点=c("东方,昌江,乐东,三亚,儋州,澄迈,临高","海口,文昌,琼海,万宁,陵水","琼中,白沙,定安,屯昌,五指山,保亭","省外")<U+00A0
+                                                                                                                                  ^
+
+INFO [2023-04-28 10:57:40] obs_menuItem_B.woebin:  Error in which(dt[, sapply(.SD, function(x) length(unique(x)) == 1)]): argument to 'which' is not logical
+

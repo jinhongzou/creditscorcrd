@@ -1,0 +1,1276 @@
+INFO [2023-02-16 10:24:12] Start ScorCrd ...
+INFO [2023-02-16 10:24:22] Start ScorCrd ...
+INFO [2023-02-16 10:24:28] [登录] user(test) login
+INFO [2023-02-16 10:24:34] [数据加载] execution
+INFO [2023-02-16 10:24:34] input file is 数据分析-0214-iv剔除-业务-2.csv
+INFO [2023-02-16 10:24:34] char_var is 
+INFO [2023-02-16 10:24:34] filter_var is 
+INFO [2023-02-16 10:24:34] sample_rate is 0.7
+INFO [2023-02-16 10:24:34] Sample Data：train = 9465, train bad= 9465, test= 4057, test bad= 4057
+INFO [2023-02-16 10:25:05] [样本分析] executing ...
+INFO [2023-02-16 10:25:07] [样本分析] 变量分析 执行完成。
+INFO [2023-02-16 10:25:15] [样本分析] 箱线图 执行完成。
+INFO [2023-02-16 10:25:23] [Woe转换] executing ...
+INFO [2023-02-16 10:25:41] [Woe转换] Woe转换 执行完成
+INFO [2023-02-16 10:29:29] Start ScorCrd ...
+INFO [2023-02-16 10:30:11] Start ScorCrd ...
+INFO [2023-02-16 10:30:16] [登录] user(test) login
+INFO [2023-02-16 10:30:22] [数据加载] execution
+INFO [2023-02-16 10:30:22] input file is 数据分析-0214-iv剔除-业务-2.csv
+INFO [2023-02-16 10:30:22] char_var is 
+INFO [2023-02-16 10:30:22] filter_var is 
+INFO [2023-02-16 10:30:22] sample_rate is 0.7
+INFO [2023-02-16 10:30:22] Sample Data：train = 9465, train bad= 9465, test= 4057, test bad= 4057
+INFO [2023-02-16 10:30:36] [样本分析] executing ...
+INFO [2023-02-16 10:30:37] [样本分析] 变量分析 执行完成。
+INFO [2023-02-16 10:30:44] [样本分析] 箱线图 执行完成。
+INFO [2023-02-16 10:30:50] [样本分析] 数据分布情况 执行完成。
+INFO [2023-02-16 10:31:01] [样本分析] 相关性 执行完成。
+INFO [2023-02-16 10:31:02] [样本分析] 碎石图 执行完成。
+INFO [2023-02-16 10:31:14] [样本分析] 层次聚类 执行完成。
+INFO [2023-02-16 10:31:15] [样本分析] kmean聚类 执行完成。
+INFO [2023-02-16 10:31:38] [Woe转换] executing ...
+INFO [2023-02-16 10:31:55] [Woe转换] 分箱 执行完成
+INFO [2023-02-16 10:32:09] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 10:32:23] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 10:32:23] [Woe转换] executing ...
+INFO [2023-02-16 10:32:41] [Woe转换] 分箱 执行完成
+INFO [2023-02-16 10:32:57] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 10:33:12] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 10:33:12] [Woe转换] executing ...
+INFO [2023-02-16 10:33:30] [Woe转换] 分箱 执行完成
+INFO [2023-02-16 10:33:45] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 10:34:05] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 10:34:05] [Woe转换] executing ...
+INFO [2023-02-16 10:34:27] [Woe转换] 分箱 执行完成
+INFO [2023-02-16 10:34:43] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 10:34:59] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 10:34:59] [Woe转换] executing ...
+INFO [2023-02-16 10:35:19] [Woe转换] 分箱 执行完成
+INFO [2023-02-16 10:35:36] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 10:35:50] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 10:35:50] [Woe转换] 训练集woe展示 执行完成
+INFO [2023-02-16 10:35:50] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 10:39:39] Start ScorCrd ...
+INFO [2023-02-16 10:39:44] [登录] user(test) login
+INFO [2023-02-16 10:39:54] [数据加载] execution
+INFO [2023-02-16 10:39:54] input file is 数据分析-0214-iv剔除-业务-2.csv
+INFO [2023-02-16 10:39:55] char_var is 
+INFO [2023-02-16 10:39:55] filter_var is 
+INFO [2023-02-16 10:39:55] sample_rate is 0.3
+INFO [2023-02-16 10:39:55] Sample Data：train = 4057, train bad= 4057, test= 9465, test bad= 9465
+INFO [2023-02-16 10:39:56] [样本分析] executing ...
+INFO [2023-02-16 10:39:58] [样本分析] 变量分析 执行完成。
+INFO [2023-02-16 10:40:05] [Woe转换] executing ...
+INFO [2023-02-16 10:40:24] [Woe转换] 分箱 执行完成
+INFO [2023-02-16 10:40:39] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 10:40:55] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 10:41:44] [特征表现] executing ...
+INFO [2023-02-16 10:41:44] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-02-16 10:41:47] [特征表现] 随机森林 执行完成。
+INFO [2023-02-16 10:41:56] [模型评估] executing ...
+INFO [2023-02-16 10:41:56] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-02-16 10:41:58] [模型评估] data_stepwise 执行完成。
+INFO [2023-02-16 10:41:58] [模型评估] 预测概率 执行完成。
+INFO [2023-02-16 10:41:58] [模型评估] 生成评分卡 执行完成。
+INFO [2023-02-16 10:42:14] [模型评估] 验证评分集 执行完成。
+INFO [2023-02-16 10:42:38] [评分卡] executing ...
+INFO [2023-02-16 10:42:38] [评分卡] executing ...
+INFO [2023-02-16 10:42:51] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 10:42:53] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 11:10:32] Start ScorCrd ...
+INFO [2023-02-16 11:10:49] [登录] user(test) login
+INFO [2023-02-16 16:32:34] [登录] user(test) login
+INFO [2023-02-16 16:33:19] [登录] user(test) login
+INFO [2023-02-16 16:33:28] [数据加载] execution
+INFO [2023-02-16 16:33:29] input file is 数据分析-0215-相关性分析-3.csv
+INFO [2023-02-16 16:33:29] char_var is 贷款申请时间 贷款期数 贷款用途 申请地点 贷款性质
+INFO [2023-02-16 16:33:29] filter_var is 
+INFO [2023-02-16 16:33:29] sample_rate is 0.7
+INFO [2023-02-16 16:33:30] Sample Data：train = 9465, train bad= 9465, test= 4057, test bad= 4057
+INFO [2023-02-16 16:34:04] [样本分析] executing ...
+INFO [2023-02-16 16:34:07] [样本分析] 变量分析 执行完成。
+INFO [2023-02-16 16:35:20] [Woe转换] executing ...
+INFO [2023-02-16 16:35:20] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 16:35:41] [Woe转换] 分箱 执行完
+INFO [2023-02-16 16:35:57] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 16:36:12] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 16:36:12] [样本分析] 相关性 执行完成。
+INFO [2023-02-16 16:37:06] [样本分析] 数据分布情况 执行完成。
+INFO [2023-02-16 16:37:20] [样本分析] 箱线图 执行完成。
+INFO [2023-02-16 16:41:46] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:44:23] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:44:24] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:44:33] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:44:33] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:44:34] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:44:35] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:49:59] [Woe转换] executing ...
+INFO [2023-02-16 16:49:59] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 16:49:59] [Woe转换] 分箱 执行完
+INFO [2023-02-16 16:50:15] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 16:50:29] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 16:50:29] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:50:30] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:54:36] [Woe转换] executing ...
+INFO [2023-02-16 16:54:36] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 16:54:36] [Woe转换] 分箱 执行完
+INFO [2023-02-16 16:54:54] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 16:55:09] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 16:55:09] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:55:33] [Woe转换] executing ...
+INFO [2023-02-16 16:55:33] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 16:55:33] [Woe转换] 分箱 执行完
+INFO [2023-02-16 16:55:49] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 16:56:04] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 16:56:04] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:56:04] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:56:05] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:56:06] [样本分析] 数据分布情况 执行完成。
+INFO [2023-02-16 16:56:32] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:56:42] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:56:58] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:56:58] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:56:59] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:56:59] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:57:31] [Woe转换] executing ...
+INFO [2023-02-16 16:57:31] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 16:57:48] [Woe转换] 分箱 执行完
+INFO [2023-02-16 16:58:03] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 16:58:16] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 16:58:16] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:58:17] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 16:58:21] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:04:47] [Woe转换] executing ...
+INFO [2023-02-16 17:04:47] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:04:47] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:05:03] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:05:17] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:05:18] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:05:18] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:05:50] [Woe转换] executing ...
+INFO [2023-02-16 17:05:50] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:06:12] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:06:29] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:06:44] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:06:44] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:06:45] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:06:46] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:06:49] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:07:04] [Woe转换] executing ...
+INFO [2023-02-16 17:07:04] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:07:23] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:07:39] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:07:54] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:07:54] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:07:55] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:07:58] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:08:30] [Woe转换] executing ...
+INFO [2023-02-16 17:08:30] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:08:49] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:09:04] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:09:19] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:09:19] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:09:20] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:09:23] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:12:04] [Woe转换] executing ...
+INFO [2023-02-16 17:12:04] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:12:23] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:12:40] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:12:55] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:12:55] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:12:56] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:13:00] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:13:07] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:13:08] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:13:09] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:14:50] [Woe转换] executing ...
+INFO [2023-02-16 17:14:50] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:15:08] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:15:23] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:15:39] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:15:39] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:15:39] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:15:42] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:16:05] [Woe转换] executing ...
+INFO [2023-02-16 17:16:05] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:16:07] [Woe转换] executing ...
+INFO [2023-02-16 17:16:07] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:17:55] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:17:57] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:17:59] [Woe转换] executing ...
+INFO [2023-02-16 17:17:59] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:18:52] [Woe转换] executing ...
+INFO [2023-02-16 17:18:52] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:19:10] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:19:24] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:19:37] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:19:37] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:19:38] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:19:41] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:21:37] [Woe转换] executing ...
+INFO [2023-02-16 17:21:37] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:21:59] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:22:15] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:22:29] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:22:29] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:22:30] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:22:32] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:22:40] [登录] user(test) login
+INFO [2023-02-16 17:23:37] [Woe转换] executing ...
+INFO [2023-02-16 17:23:37] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:23:55] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:24:09] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:24:23] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:24:23] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:24:24] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:24:25] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:24:55] [Woe转换] executing ...
+INFO [2023-02-16 17:24:55] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:25:15] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:25:30] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:25:43] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:25:43] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:25:44] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:25:46] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:26:41] [Woe转换] executing ...
+INFO [2023-02-16 17:26:41] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:26:59] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:27:13] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:27:27] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:27:27] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:27:28] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:27:32] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:27:58] [Woe转换] executing ...
+INFO [2023-02-16 17:27:58] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:28:17] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:28:32] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:28:46] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:28:46] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:28:46] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:28:49] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:30:32] [登录] user(test) login
+INFO [2023-02-16 17:35:13] [Woe转换] executing ...
+INFO [2023-02-16 17:35:13] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:35:33] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:35:49] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:36:04] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:36:04] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:36:05] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:36:08] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:36:59] [Woe转换] executing ...
+INFO [2023-02-16 17:36:59] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:36:59] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:37:15] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:37:31] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:37:31] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:37:32] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:37:41] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:40:41] [Woe转换] executing ...
+INFO [2023-02-16 17:40:41] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:40:47] [Woe转换] executing ...
+INFO [2023-02-16 17:40:47] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:41:34] [Woe转换] executing ...
+INFO [2023-02-16 17:41:34] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:41:40] [Woe转换] executing ...
+INFO [2023-02-16 17:41:40] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:41:42] [Woe转换] executing ...
+INFO [2023-02-16 17:41:42] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:41:49] [Woe转换] executing ...
+INFO [2023-02-16 17:41:49] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:42:04] [Woe转换] executing ...
+INFO [2023-02-16 17:42:04] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:43:29] [Woe转换] executing ...
+INFO [2023-02-16 17:43:29] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:43:58] [Woe转换] executing ...
+INFO [2023-02-16 17:43:58] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:44:15] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:44:29] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:44:42] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:44:43] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:44:43] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:44:47] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:48:04] [Woe转换] executing ...
+INFO [2023-02-16 17:48:04] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 17:48:21] [Woe转换] 分箱 执行完
+INFO [2023-02-16 17:48:35] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 17:48:48] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 17:48:48] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:48:49] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:48:53] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 17:59:55] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:06:19] [Woe转换] executing ...
+INFO [2023-02-16 18:06:19] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 18:06:36] [Woe转换] 分箱 执行完
+INFO [2023-02-16 18:06:50] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 18:07:03] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 18:07:03] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:07:04] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:07:10] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:07:42] [Woe转换] executing ...
+INFO [2023-02-16 18:07:42] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 18:08:00] [Woe转换] 分箱 执行完
+INFO [2023-02-16 18:08:14] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 18:08:28] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 18:08:28] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:08:29] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:08:34] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:50:23] Start ScorCrd ...
+INFO [2023-02-16 18:50:26] [登录] user(test) login
+INFO [2023-02-16 18:51:13] [数据加载] execution
+INFO [2023-02-16 18:51:13] input file is 数据分析-0215-相关性分析-3.csv
+INFO [2023-02-16 18:51:13] char_var is 贷款申请时间 贷款期数 贷款用途 申请地点 贷款性质
+INFO [2023-02-16 18:51:13] filter_var is 
+INFO [2023-02-16 18:51:13] sample_rate is 0.7
+INFO [2023-02-16 18:51:13] Sample Data：train = 9465, train bad= 9465, test= 4057, test bad= 4057
+INFO [2023-02-16 18:51:16] [样本分析] executing ...
+INFO [2023-02-16 18:51:17] [样本分析] 变量分析 执行完成。
+INFO [2023-02-16 18:51:24] [样本分析] 相关性 执行完成。
+INFO [2023-02-16 18:51:25] [样本分析] 碎石图 执行完成。
+INFO [2023-02-16 18:51:36] [样本分析] 层次聚类 执行完成。
+INFO [2023-02-16 18:51:37] [样本分析] kmean聚类 执行完成。
+INFO [2023-02-16 18:52:11] [Woe转换] executing ...
+INFO [2023-02-16 18:52:11] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 18:52:31] [Woe转换] 分箱 执行完
+INFO [2023-02-16 18:52:46] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 18:53:00] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 18:53:07] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:53:08] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:53:09] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:55:41] [Woe转换] executing ...
+INFO [2023-02-16 18:55:41] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 18:55:57] [Woe转换] 分箱 执行完
+INFO [2023-02-16 18:56:12] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 18:56:25] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 18:56:25] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:56:26] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 18:56:43] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:02:40] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:04:07] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:04:09] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:05:25] [Woe转换] executing ...
+INFO [2023-02-16 19:05:25] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 19:05:43] [Woe转换] 分箱 执行完
+INFO [2023-02-16 19:05:57] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 19:06:10] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 19:06:10] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:06:11] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:06:17] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:06:35] [Woe转换] executing ...
+INFO [2023-02-16 19:06:35] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 19:06:51] [Woe转换] 分箱 执行完
+INFO [2023-02-16 19:07:04] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 19:07:17] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 19:07:17] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:07:18] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:07:25] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:07:34] [Woe转换] executing ...
+INFO [2023-02-16 19:07:34] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 19:07:51] [Woe转换] 分箱 执行完
+INFO [2023-02-16 19:08:04] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 19:08:17] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 19:08:17] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:08:18] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:08:22] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:08:46] [Woe转换] executing ...
+INFO [2023-02-16 19:08:46] [Woe转换] 分箱 执行中...
+INFO [2023-02-16 19:09:04] [Woe转换] 分箱 执行完
+INFO [2023-02-16 19:09:18] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-02-16 19:09:31] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-02-16 19:09:31] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:09:31] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:09:34] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:17:26] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:17:40] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:25:13] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:25:20] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:25:25] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:25:30] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:25:54] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:26:04] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:26:06] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:26:09] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:29:00] [特征表现] executing ...
+INFO [2023-02-16 19:29:00] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-02-16 19:29:11] [特征表现] 随机森林 执行完成。
+INFO [2023-02-16 19:29:41] [模型评估] executing ...
+INFO [2023-02-16 19:29:41] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-02-16 19:29:47] [模型评估] data_stepwise 执行完成。
+INFO [2023-02-16 19:29:47] [模型评估] 预测概率 执行完成。
+INFO [2023-02-16 19:29:47] [模型评估] 生成评分卡 执行完成。
+INFO [2023-02-16 19:30:04] [模型评估] 验证评分集 执行完成。
+INFO [2023-02-16 19:35:22] [评分卡] executing ...
+INFO [2023-02-16 19:35:22] [评分卡] executing ...
+INFO [2023-02-16 19:43:19] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-02-16 19:43:27] [Woe转换] 测试集woe展示 执行完成
+INFO [2023-04-24 16:43:40] Start ScorCrd ...
+INFO [2023-04-24 16:43:52] [登录] user(test) login
+INFO [2023-04-24 16:44:01] [数据加载] execution
+INFO [2023-04-24 16:44:01] input file is _20201130_v2.01.csv
+INFO [2023-04-24 16:44:01] char_var is 
+INFO [2023-04-24 16:44:01] filter_var is 
+INFO [2023-04-24 16:44:01] sample_rate is 0.7
+INFO [2023-04-24 16:44:01] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 16:44:06] [数据加载] execution
+INFO [2023-04-24 16:44:06] input file is _20201130_v2.01.csv
+INFO [2023-04-24 16:44:06] char_var is 
+INFO [2023-04-24 16:44:06] filter_var is 
+INFO [2023-04-24 16:44:06] sample_rate is 0.7
+INFO [2023-04-24 16:44:06] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 16:44:09] [样本分析] executing ...
+INFO [2023-04-24 16:44:10] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 16:48:01] Start ScorCrd ...
+INFO [2023-04-24 16:48:26] [登录] user(test) login
+INFO [2023-04-24 16:48:32] [数据加载] execution
+INFO [2023-04-24 16:48:32] input file is _20201130_v2.01.csv
+INFO [2023-04-24 16:48:32] char_var is 
+INFO [2023-04-24 16:48:32] filter_var is 
+INFO [2023-04-24 16:48:32] sample_rate is 0.7
+INFO [2023-04-24 16:48:32] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 16:48:41] [数据加载] execution
+INFO [2023-04-24 16:48:41] input file is _20201130_v2.01.csv
+INFO [2023-04-24 16:48:41] char_var is 
+INFO [2023-04-24 16:48:41] filter_var is 
+INFO [2023-04-24 16:48:41] sample_rate is 0.7
+INFO [2023-04-24 16:48:42] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 16:48:52] [数据加载] execution
+INFO [2023-04-24 16:48:52] input file is _20201130_v2.01.csv
+INFO [2023-04-24 16:48:52] char_var is 
+INFO [2023-04-24 16:48:52] filter_var is 
+INFO [2023-04-24 16:48:52] sample_rate is 0.7
+INFO [2023-04-24 16:48:52] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 16:51:22] Start ScorCrd ...
+INFO [2023-04-24 16:51:26] [登录] user(test) login
+INFO [2023-04-24 16:51:33] [数据加载] execution
+INFO [2023-04-24 16:51:33] input file is _20201130_v2.01.csv
+INFO [2023-04-24 16:51:33] char_var is 
+INFO [2023-04-24 16:51:33] filter_var is 
+INFO [2023-04-24 16:51:33] sample_rate is 0.7
+INFO [2023-04-24 16:51:33] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 16:51:35] [数据加载] execution
+INFO [2023-04-24 16:51:35] input file is _20201130_v2.01.csv
+INFO [2023-04-24 16:51:35] char_var is 
+INFO [2023-04-24 16:51:35] filter_var is 
+INFO [2023-04-24 16:51:35] sample_rate is 0.7
+INFO [2023-04-24 16:51:35] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 16:51:36] [数据加载] execution
+INFO [2023-04-24 16:51:36] input file is _20201130_v2.01.csv
+INFO [2023-04-24 16:51:36] char_var is 
+INFO [2023-04-24 16:51:36] filter_var is 
+INFO [2023-04-24 16:51:36] sample_rate is 0.7
+INFO [2023-04-24 16:51:36] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 16:51:38] [数据加载] execution
+INFO [2023-04-24 16:51:38] input file is _20201130_v2.01.csv
+INFO [2023-04-24 16:51:38] char_var is 
+INFO [2023-04-24 16:51:38] filter_var is 
+INFO [2023-04-24 16:51:38] sample_rate is 0.7
+INFO [2023-04-24 16:51:38] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 16:51:47] [数据加载] execution
+INFO [2023-04-24 16:51:47] input file is hello.csv
+INFO [2023-04-24 16:51:47] char_var is 
+INFO [2023-04-24 16:51:47] filter_var is 
+INFO [2023-04-24 16:51:47] sample_rate is 0.7
+INFO [2023-04-24 16:51:47] Sample Data：train = 1861, train bad= 1861, test= 798, test bad= 798
+INFO [2023-04-24 16:52:12] Start ScorCrd ...
+INFO [2023-04-24 16:52:17] [登录] user(test) login
+INFO [2023-04-24 16:52:22] [数据加载] execution
+INFO [2023-04-24 16:52:22] input file is _20201130_v2.01.csv
+INFO [2023-04-24 16:52:22] char_var is 
+INFO [2023-04-24 16:52:22] filter_var is 
+INFO [2023-04-24 16:52:22] sample_rate is 0.7
+INFO [2023-04-24 16:52:22] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 16:52:24] [样本分析] executing ...
+INFO [2023-04-24 16:52:25] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 16:52:39] [样本分析] executing ...
+INFO [2023-04-24 16:52:39] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:02:17] Start ScorCrd ...
+INFO [2023-04-24 17:02:24] [登录] user(test) login
+INFO [2023-04-24 17:02:29] [数据加载] execution
+INFO [2023-04-24 17:02:29] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:02:29] char_var is 
+INFO [2023-04-24 17:02:29] filter_var is 
+INFO [2023-04-24 17:02:29] sample_rate is 0.7
+INFO [2023-04-24 17:02:29] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:02:37] [数据加载] execution
+INFO [2023-04-24 17:02:37] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:02:37] char_var is 
+INFO [2023-04-24 17:02:37] filter_var is 
+INFO [2023-04-24 17:02:37] sample_rate is 0.7
+INFO [2023-04-24 17:02:37] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:02:42] [数据加载] execution
+INFO [2023-04-24 17:02:42] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:02:42] char_var is 
+INFO [2023-04-24 17:02:42] filter_var is 
+INFO [2023-04-24 17:02:42] sample_rate is 0.7
+INFO [2023-04-24 17:02:42] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:02:43] [数据加载] execution
+INFO [2023-04-24 17:02:44] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:02:44] char_var is 
+INFO [2023-04-24 17:02:44] filter_var is 
+INFO [2023-04-24 17:02:44] sample_rate is 0.7
+INFO [2023-04-24 17:02:44] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:02:45] [数据加载] execution
+INFO [2023-04-24 17:02:45] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:02:45] char_var is 
+INFO [2023-04-24 17:02:45] filter_var is 
+INFO [2023-04-24 17:02:45] sample_rate is 0.7
+INFO [2023-04-24 17:02:45] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:02:47] [数据加载] execution
+INFO [2023-04-24 17:02:47] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:02:47] char_var is 
+INFO [2023-04-24 17:02:47] filter_var is 
+INFO [2023-04-24 17:02:47] sample_rate is 0.7
+INFO [2023-04-24 17:02:47] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:02:52] [数据加载] execution
+INFO [2023-04-24 17:02:52] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:02:52] char_var is 
+INFO [2023-04-24 17:02:52] filter_var is 
+INFO [2023-04-24 17:02:52] sample_rate is 0.7
+INFO [2023-04-24 17:02:52] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:02:55] [数据加载] execution
+INFO [2023-04-24 17:02:55] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:02:55] char_var is 
+INFO [2023-04-24 17:02:55] filter_var is 
+INFO [2023-04-24 17:02:55] sample_rate is 0.7
+INFO [2023-04-24 17:02:55] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:03:01] [数据加载] execution
+INFO [2023-04-24 17:03:01] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:03:01] char_var is 
+INFO [2023-04-24 17:03:01] filter_var is 
+INFO [2023-04-24 17:03:01] sample_rate is 0.7
+INFO [2023-04-24 17:03:01] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:03:02] [数据加载] execution
+INFO [2023-04-24 17:03:02] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:03:02] char_var is 
+INFO [2023-04-24 17:03:02] filter_var is 
+INFO [2023-04-24 17:03:02] sample_rate is 0.7
+INFO [2023-04-24 17:03:02] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:03:09] [数据加载] execution
+INFO [2023-04-24 17:03:09] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:03:09] char_var is 
+INFO [2023-04-24 17:03:09] filter_var is 
+INFO [2023-04-24 17:03:09] sample_rate is 0.7
+INFO [2023-04-24 17:03:09] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:03:10] [数据加载] execution
+INFO [2023-04-24 17:03:10] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:03:10] char_var is 
+INFO [2023-04-24 17:03:10] filter_var is 
+INFO [2023-04-24 17:03:10] sample_rate is 0.7
+INFO [2023-04-24 17:03:10] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:05:07] Start ScorCrd ...
+INFO [2023-04-24 17:05:11] [登录] user(test) login
+INFO [2023-04-24 17:05:16] [数据加载] execution
+INFO [2023-04-24 17:05:16] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:05:16] char_var is 
+INFO [2023-04-24 17:05:16] filter_var is 
+INFO [2023-04-24 17:05:16] sample_rate is 0.7
+INFO [2023-04-24 17:05:16] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:05:18] [样本分析] executing ...
+INFO [2023-04-24 17:05:19] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:05:24] [样本分析] executing ...
+INFO [2023-04-24 17:05:24] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:05:28] [样本分析] executing ...
+INFO [2023-04-24 17:05:29] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:06:52] Start ScorCrd ...
+INFO [2023-04-24 17:06:57] [登录] user(test) login
+INFO [2023-04-24 17:07:02] [数据加载] execution
+INFO [2023-04-24 17:07:02] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:07:02] char_var is 
+INFO [2023-04-24 17:07:02] filter_var is 
+INFO [2023-04-24 17:07:02] sample_rate is 0.7
+INFO [2023-04-24 17:07:02] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:07:04] [样本分析] executing ...
+INFO [2023-04-24 17:07:05] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:07:11] [数据加载] execution
+INFO [2023-04-24 17:07:11] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:07:11] char_var is 
+INFO [2023-04-24 17:07:11] filter_var is 
+INFO [2023-04-24 17:07:11] sample_rate is 0.7
+INFO [2023-04-24 17:07:11] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:08:26] Start ScorCrd ...
+INFO [2023-04-24 17:08:32] [登录] user(test) login
+INFO [2023-04-24 17:08:37] [数据加载] execution
+INFO [2023-04-24 17:08:37] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:08:37] char_var is 
+INFO [2023-04-24 17:08:37] filter_var is 
+INFO [2023-04-24 17:08:37] sample_rate is 0.7
+INFO [2023-04-24 17:08:37] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:08:39] [样本分析] executing ...
+INFO [2023-04-24 17:08:40] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:08:44] [样本分析] executing ...
+INFO [2023-04-24 17:08:45] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:08:48] [样本分析] 箱线图 执行完成。
+INFO [2023-04-24 17:08:51] [样本分析] 数据分布情况 执行完成。
+INFO [2023-04-24 17:08:52] [样本分析] 相关性 执行完成。
+INFO [2023-04-24 17:08:53] [样本分析] 碎石图 执行完成。
+INFO [2023-04-24 17:08:55] [样本分析] 层次聚类 执行完成。
+INFO [2023-04-24 17:08:55] [样本分析] kmean聚类 执行完成。
+INFO [2023-04-24 17:08:58] [数据加载] execution
+INFO [2023-04-24 17:08:58] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:08:58] char_var is 
+INFO [2023-04-24 17:08:58] filter_var is 
+INFO [2023-04-24 17:08:58] sample_rate is 0.7
+INFO [2023-04-24 17:08:58] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:09:34] Start ScorCrd ...
+INFO [2023-04-24 17:09:39] [登录] user(test) login
+INFO [2023-04-24 17:09:44] [数据加载] execution
+INFO [2023-04-24 17:09:44] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:09:44] char_var is 
+INFO [2023-04-24 17:09:44] filter_var is 
+INFO [2023-04-24 17:09:44] sample_rate is 0.7
+INFO [2023-04-24 17:09:44] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:10:12] [样本分析] executing ...
+INFO [2023-04-24 17:11:19] Start ScorCrd ...
+INFO [2023-04-24 17:11:24] [登录] user(test) login
+INFO [2023-04-24 17:11:29] [数据加载] execution
+INFO [2023-04-24 17:11:29] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:11:29] char_var is 
+INFO [2023-04-24 17:11:29] filter_var is 
+INFO [2023-04-24 17:11:29] sample_rate is 0.7
+INFO [2023-04-24 17:11:29] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:16:35] Start ScorCrd ...
+INFO [2023-04-24 17:16:42] [登录] user(test) login
+INFO [2023-04-24 17:16:48] [数据加载] execution
+INFO [2023-04-24 17:16:48] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:16:48] char_var is 
+INFO [2023-04-24 17:16:48] filter_var is 
+INFO [2023-04-24 17:16:48] sample_rate is 0.7
+INFO [2023-04-24 17:16:48] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:19:38] Start ScorCrd ...
+INFO [2023-04-24 17:19:41] [登录] user(test) login
+INFO [2023-04-24 17:19:47] [数据加载] execution
+INFO [2023-04-24 17:19:47] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:19:47] char_var is 
+INFO [2023-04-24 17:19:47] filter_var is 
+INFO [2023-04-24 17:19:47] sample_rate is 0.7
+INFO [2023-04-24 17:19:47] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:19:58] [数据加载] execution
+INFO [2023-04-24 17:19:58] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:19:58] char_var is 
+INFO [2023-04-24 17:19:58] filter_var is 
+INFO [2023-04-24 17:19:58] sample_rate is 0.7
+INFO [2023-04-24 17:19:58] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:22:53] Start ScorCrd ...
+INFO [2023-04-24 17:23:07] Start ScorCrd ...
+INFO [2023-04-24 17:23:12] [登录] user(test) login
+INFO [2023-04-24 17:23:17] [数据加载] execution
+INFO [2023-04-24 17:23:17] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:23:17] char_var is 
+INFO [2023-04-24 17:23:17] filter_var is 
+INFO [2023-04-24 17:23:17] sample_rate is 0.7
+INFO [2023-04-24 17:23:17] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:24:28] Start ScorCrd ...
+INFO [2023-04-24 17:24:35] [登录] user(test) login
+INFO [2023-04-24 17:24:40] [数据加载] execution
+INFO [2023-04-24 17:24:40] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:24:40] char_var is 
+INFO [2023-04-24 17:24:40] filter_var is 
+INFO [2023-04-24 17:24:40] sample_rate is 0.7
+INFO [2023-04-24 17:24:40] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:24:45] [数据加载] execution
+INFO [2023-04-24 17:24:45] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:24:45] char_var is 
+INFO [2023-04-24 17:24:45] filter_var is 
+INFO [2023-04-24 17:24:45] sample_rate is 0.7
+INFO [2023-04-24 17:24:45] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:24:48] [数据加载] execution
+INFO [2023-04-24 17:24:48] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:24:48] char_var is 
+INFO [2023-04-24 17:24:48] filter_var is 
+INFO [2023-04-24 17:24:48] sample_rate is 0.7
+INFO [2023-04-24 17:24:48] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:24:49] [数据加载] execution
+INFO [2023-04-24 17:24:49] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:24:49] char_var is 
+INFO [2023-04-24 17:24:49] filter_var is 
+INFO [2023-04-24 17:24:49] sample_rate is 0.7
+INFO [2023-04-24 17:24:49] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:24:52] [样本分析] executing ...
+INFO [2023-04-24 17:24:52] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:24:56] [样本分析] executing ...
+INFO [2023-04-24 17:24:56] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:24:59] [样本分析] executing ...
+INFO [2023-04-24 17:25:00] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:25:05] [样本分析] executing ...
+INFO [2023-04-24 17:25:05] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:25:15] [数据加载] execution
+INFO [2023-04-24 17:25:15] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:25:15] char_var is 
+INFO [2023-04-24 17:25:15] filter_var is 
+INFO [2023-04-24 17:25:15] sample_rate is 0.7
+INFO [2023-04-24 17:25:15] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:25:16] [数据加载] execution
+INFO [2023-04-24 17:25:17] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:25:17] char_var is 
+INFO [2023-04-24 17:25:17] filter_var is 
+INFO [2023-04-24 17:25:17] sample_rate is 0.7
+INFO [2023-04-24 17:25:17] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:25:18] [数据加载] execution
+INFO [2023-04-24 17:25:18] input file is _20201130_v2.01.csv
+INFO [2023-04-24 17:25:18] char_var is 
+INFO [2023-04-24 17:25:18] filter_var is 
+INFO [2023-04-24 17:25:18] sample_rate is 0.7
+INFO [2023-04-24 17:25:18] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-24 17:25:23] [样本分析] executing ...
+INFO [2023-04-24 17:25:23] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:25:30] [样本分析] executing ...
+INFO [2023-04-24 17:25:30] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:25:34] [样本分析] 箱线图 执行完成。
+INFO [2023-04-24 17:25:37] [样本分析] 数据分布情况 执行完成。
+INFO [2023-04-24 17:25:38] [样本分析] 相关性 执行完成。
+INFO [2023-04-24 17:25:38] [样本分析] 碎石图 执行完成。
+INFO [2023-04-24 17:25:39] [样本分析] 层次聚类 执行完成。
+INFO [2023-04-24 17:25:39] [样本分析] kmean聚类 执行完成。
+INFO [2023-04-24 17:25:40] [样本分析] executing ...
+INFO [2023-04-24 17:25:40] [样本分析] 变量分析 执行完成。
+INFO [2023-04-24 17:32:02] [样本分析] executing ...
+INFO [2023-04-24 17:32:02] [样本分析] 变量分析 执行完成。
+INFO [2023-04-26 09:12:45] Start ScorCrd ...
+INFO [2023-04-26 09:12:51] [登录] user(test) login
+INFO [2023-04-26 09:13:04] [数据加载] execution
+INFO [2023-04-26 09:13:04] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:13:05] char_var is 
+INFO [2023-04-26 09:13:05] filter_var is 
+INFO [2023-04-26 09:13:05] sample_rate is 0.7
+INFO [2023-04-26 09:13:05] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:13:06] [数据加载] execution
+INFO [2023-04-26 09:13:06] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:13:06] char_var is 
+INFO [2023-04-26 09:13:06] filter_var is 
+INFO [2023-04-26 09:13:06] sample_rate is 0.7
+INFO [2023-04-26 09:13:06] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:13:10] [样本分析] executing ...
+INFO [2023-04-26 09:13:11] [样本分析] 变量分析 执行完成。
+INFO [2023-04-26 09:13:15] [样本分析] 箱线图 执行完成。
+INFO [2023-04-26 09:13:18] [Woe转换] executing ...
+INFO [2023-04-26 09:13:18] [Woe转换] 分箱 执行中...
+INFO [2023-04-26 09:13:21] [Woe转换] 分箱 执行完
+INFO [2023-04-26 09:13:21] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-26 09:13:21] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-26 09:13:26] [样本分析] executing ...
+INFO [2023-04-26 09:13:27] [样本分析] 箱线图 执行完成。
+INFO [2023-04-26 09:13:30] [数据加载] execution
+INFO [2023-04-26 09:13:30] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:13:30] char_var is 
+INFO [2023-04-26 09:13:30] filter_var is 
+INFO [2023-04-26 09:13:30] sample_rate is 0.7
+INFO [2023-04-26 09:13:30] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:13:33] [数据加载] execution
+INFO [2023-04-26 09:13:33] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:13:33] char_var is 
+INFO [2023-04-26 09:13:33] filter_var is 
+INFO [2023-04-26 09:13:33] sample_rate is 0.7
+INFO [2023-04-26 09:13:33] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:13:37] [数据加载] execution
+INFO [2023-04-26 09:13:37] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:13:37] char_var is 
+INFO [2023-04-26 09:13:37] filter_var is 
+INFO [2023-04-26 09:13:37] sample_rate is 0.9
+INFO [2023-04-26 09:13:37] Sample Data：train = 3433, train bad= 3433, test= 382, test bad= 382
+INFO [2023-04-26 09:14:02] [样本分析] executing ...
+INFO [2023-04-26 09:14:02] [样本分析] 箱线图 执行完成。
+INFO [2023-04-26 09:14:03] [样本分析] 变量分析 执行完成。
+INFO [2023-04-26 09:14:06] [样本分析] executing ...
+INFO [2023-04-26 09:14:07] [样本分析] 变量分析 执行完成。
+INFO [2023-04-26 09:14:10] [样本分析] executing ...
+INFO [2023-04-26 09:14:11] [样本分析] 变量分析 执行完成。
+INFO [2023-04-26 09:14:14] [样本分析] 箱线图 执行完成。
+INFO [2023-04-26 09:14:20] [样本分析] executing ...
+INFO [2023-04-26 09:14:20] [样本分析] 变量分析 执行完成。
+INFO [2023-04-26 09:14:23] [样本分析] executing ...
+INFO [2023-04-26 09:14:24] [样本分析] 变量分析 执行完成。
+INFO [2023-04-26 09:14:28] [数据加载] execution
+INFO [2023-04-26 09:14:28] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:14:28] char_var is 
+INFO [2023-04-26 09:14:28] filter_var is 
+INFO [2023-04-26 09:14:28] sample_rate is 0.9
+INFO [2023-04-26 09:14:28] Sample Data：train = 3433, train bad= 3433, test= 382, test bad= 382
+INFO [2023-04-26 09:14:29] [数据加载] execution
+INFO [2023-04-26 09:14:29] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:14:29] char_var is 
+INFO [2023-04-26 09:14:29] filter_var is 
+INFO [2023-04-26 09:14:29] sample_rate is 0.9
+INFO [2023-04-26 09:14:29] Sample Data：train = 3433, train bad= 3433, test= 382, test bad= 382
+INFO [2023-04-26 09:14:31] [数据加载] execution
+INFO [2023-04-26 09:14:31] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:14:31] char_var is 
+INFO [2023-04-26 09:14:31] filter_var is 
+INFO [2023-04-26 09:14:31] sample_rate is 0.9
+INFO [2023-04-26 09:14:31] Sample Data：train = 3433, train bad= 3433, test= 382, test bad= 382
+INFO [2023-04-26 09:14:32] [数据加载] execution
+INFO [2023-04-26 09:14:32] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:14:32] char_var is 
+INFO [2023-04-26 09:14:32] filter_var is 
+INFO [2023-04-26 09:14:32] sample_rate is 0.9
+INFO [2023-04-26 09:14:32] Sample Data：train = 3433, train bad= 3433, test= 382, test bad= 382
+INFO [2023-04-26 09:15:16] Start ScorCrd ...
+INFO [2023-04-26 09:15:20] [登录] user(test) login
+INFO [2023-04-26 09:18:53] Start ScorCrd ...
+INFO [2023-04-26 09:19:00] [登录] user(test) login
+INFO [2023-04-26 09:19:06] [数据加载] execution
+INFO [2023-04-26 09:19:06] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:19:06] char_var is 
+INFO [2023-04-26 09:19:06] filter_var is 
+INFO [2023-04-26 09:19:06] sample_rate is 0.7
+INFO [2023-04-26 09:19:06] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:20:04] Start ScorCrd ...
+INFO [2023-04-26 09:20:11] [登录] user(test) login
+INFO [2023-04-26 09:20:14] [数据加载] execution
+INFO [2023-04-26 09:20:14] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:20:14] char_var is 
+INFO [2023-04-26 09:20:14] filter_var is 
+INFO [2023-04-26 09:20:14] sample_rate is 0.7
+INFO [2023-04-26 09:20:14] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:21:49] Start ScorCrd ...
+INFO [2023-04-26 09:21:56] [登录] user(test) login
+INFO [2023-04-26 09:22:03] [数据加载] execution
+INFO [2023-04-26 09:22:03] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:22:03] char_var is 
+INFO [2023-04-26 09:22:03] filter_var is 
+INFO [2023-04-26 09:22:03] sample_rate is 0.7
+INFO [2023-04-26 09:22:03] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:23:12] Start ScorCrd ...
+INFO [2023-04-26 09:23:17] [登录] user(test) login
+INFO [2023-04-26 09:23:22] [数据加载] execution
+INFO [2023-04-26 09:23:22] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:23:22] char_var is 
+INFO [2023-04-26 09:23:22] filter_var is 
+INFO [2023-04-26 09:23:22] sample_rate is 0.7
+INFO [2023-04-26 09:23:22] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:26:36] Start ScorCrd ...
+INFO [2023-04-26 09:27:50] [登录] user(test) login
+INFO [2023-04-26 09:27:56] [数据加载] execution
+INFO [2023-04-26 09:27:56] input file is hello.csv
+INFO [2023-04-26 09:27:56] char_var is 
+INFO [2023-04-26 09:27:56] filter_var is 
+INFO [2023-04-26 09:27:56] sample_rate is 0.7
+INFO [2023-04-26 09:27:57] Sample Data：train = 1861, train bad= 1861, test= 798, test bad= 798
+INFO [2023-04-26 09:29:24] Start ScorCrd ...
+INFO [2023-04-26 09:29:29] [登录] user(test) login
+INFO [2023-04-26 09:29:34] [数据加载] execution
+INFO [2023-04-26 09:29:34] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:29:34] char_var is 
+INFO [2023-04-26 09:29:34] filter_var is 
+INFO [2023-04-26 09:29:34] sample_rate is 0.7
+INFO [2023-04-26 09:29:34] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:48:17] Start ScorCrd ...
+INFO [2023-04-26 09:48:25] [登录] user(test) login
+INFO [2023-04-26 09:48:30] [数据加载] execution
+INFO [2023-04-26 09:48:30] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:48:30] char_var is 
+INFO [2023-04-26 09:48:30] filter_var is 
+INFO [2023-04-26 09:48:30] sample_rate is 0.7
+INFO [2023-04-26 09:48:30] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:48:31] [数据加载] execution
+INFO [2023-04-26 09:48:31] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:48:31] char_var is 
+INFO [2023-04-26 09:48:31] filter_var is 
+INFO [2023-04-26 09:48:31] sample_rate is 0.7
+INFO [2023-04-26 09:48:31] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:48:33] [数据加载] execution
+INFO [2023-04-26 09:48:33] input file is _20201130_v2.01.csv
+INFO [2023-04-26 09:48:33] char_var is 
+INFO [2023-04-26 09:48:33] filter_var is 
+INFO [2023-04-26 09:48:33] sample_rate is 0.7
+INFO [2023-04-26 09:48:33] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-26 09:48:35] [样本分析] executing ...
+INFO [2023-04-26 09:48:36] [样本分析] 变量分析 执行完成。
+INFO [2023-04-26 09:48:40] [Woe转换] executing ...
+INFO [2023-04-26 09:48:40] [Woe转换] 分箱 执行中...
+INFO [2023-04-26 09:48:43] [Woe转换] 分箱 执行完
+INFO [2023-04-26 09:48:43] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-26 09:48:43] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-26 09:48:47] [Woe转换] executing ...
+INFO [2023-04-26 09:48:47] [Woe转换] 分箱 执行中...
+INFO [2023-04-26 09:48:50] [Woe转换] 分箱 执行完
+INFO [2023-04-26 09:48:50] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-26 09:48:50] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-26 09:48:53] [特征表现] executing ...
+INFO [2023-04-26 09:48:53] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-04-26 09:48:54] [特征表现] 随机森林 执行完成。
+INFO [2023-04-26 09:48:57] [模型评估] executing ...
+INFO [2023-04-26 09:48:57] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-26 09:48:57] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-26 09:48:57] [模型评估] 预测概率 执行完成。
+INFO [2023-04-26 09:48:57] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-26 09:49:04] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-26 09:49:14] [评分卡] executing ...
+INFO [2023-04-26 09:49:14] [评分卡] executing ...
+INFO [2023-04-28 09:55:44] Start ScorCrd ...
+INFO [2023-04-28 09:55:59] [登录] user(test) login
+INFO [2023-04-28 09:56:05] [数据加载] execution
+INFO [2023-04-28 09:56:05] input file is _20201130_v2.01.csv
+INFO [2023-04-28 09:56:05] char_var is 
+INFO [2023-04-28 09:56:05] filter_var is 
+INFO [2023-04-28 09:56:05] sample_rate is 0.7
+INFO [2023-04-28 09:56:05] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 09:57:56] Start ScorCrd ...
+INFO [2023-04-28 09:58:01] [登录] user(test) login
+INFO [2023-04-28 09:58:06] [数据加载] execution
+INFO [2023-04-28 09:58:06] input file is _20201130_v2.01.csv
+INFO [2023-04-28 09:58:06] char_var is 
+INFO [2023-04-28 09:58:06] filter_var is 
+INFO [2023-04-28 09:58:06] sample_rate is 0.7
+INFO [2023-04-28 09:58:06] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 09:58:14] [样本分析] executing ...
+INFO [2023-04-28 09:58:15] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:00:23] Start ScorCrd ...
+INFO [2023-04-28 10:00:28] [登录] user(test) login
+INFO [2023-04-28 10:00:32] [数据加载] execution
+INFO [2023-04-28 10:00:32] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:00:32] char_var is 
+INFO [2023-04-28 10:00:32] filter_var is 
+INFO [2023-04-28 10:00:32] sample_rate is 0.7
+INFO [2023-04-28 10:00:32] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:00:38] [样本分析] executing ...
+INFO [2023-04-28 10:00:39] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:03:43] Start ScorCrd ...
+INFO [2023-04-28 10:05:00] Start ScorCrd ...
+INFO [2023-04-28 10:05:06] [数据加载] execution
+INFO [2023-04-28 10:05:06] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:05:06] char_var is 
+INFO [2023-04-28 10:05:06] filter_var is 
+INFO [2023-04-28 10:05:06] sample_rate is 0.7
+INFO [2023-04-28 10:05:06] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:05:19] [样本分析] executing ...
+INFO [2023-04-28 10:05:20] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:06:12] Start ScorCrd ...
+INFO [2023-04-28 10:06:17] [数据加载] execution
+INFO [2023-04-28 10:06:17] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:06:17] char_var is 
+INFO [2023-04-28 10:06:17] filter_var is 
+INFO [2023-04-28 10:06:17] sample_rate is 0.7
+INFO [2023-04-28 10:06:17] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:06:22] [样本分析] executing ...
+INFO [2023-04-28 10:06:22] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:07:38] Start ScorCrd ...
+INFO [2023-04-28 10:09:12] Start ScorCrd ...
+INFO [2023-04-28 10:09:16] [数据加载] execution
+INFO [2023-04-28 10:09:16] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:09:17] char_var is 
+INFO [2023-04-28 10:09:17] filter_var is 
+INFO [2023-04-28 10:09:17] sample_rate is 0.7
+INFO [2023-04-28 10:09:17] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:09:22] [数据加载] execution
+INFO [2023-04-28 10:09:22] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:09:22] char_var is 
+INFO [2023-04-28 10:09:22] filter_var is 
+INFO [2023-04-28 10:09:22] sample_rate is 0.7
+INFO [2023-04-28 10:09:22] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:09:23] [数据加载] execution
+INFO [2023-04-28 10:09:23] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:09:23] char_var is 
+INFO [2023-04-28 10:09:23] filter_var is 
+INFO [2023-04-28 10:09:23] sample_rate is 0.7
+INFO [2023-04-28 10:09:23] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:09:54] Start ScorCrd ...
+INFO [2023-04-28 10:09:59] [数据加载] execution
+INFO [2023-04-28 10:09:59] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:09:59] char_var is 
+INFO [2023-04-28 10:09:59] filter_var is 
+INFO [2023-04-28 10:09:59] sample_rate is 0.7
+INFO [2023-04-28 10:09:59] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:11:27] Start ScorCrd ...
+INFO [2023-04-28 10:11:32] [数据加载] execution
+INFO [2023-04-28 10:11:32] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:11:32] char_var is 
+INFO [2023-04-28 10:11:32] filter_var is 
+INFO [2023-04-28 10:11:32] sample_rate is 0.7
+INFO [2023-04-28 10:11:32] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:11:43] [样本分析] executing ...
+INFO [2023-04-28 10:11:44] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:11:58] [数据加载] execution
+INFO [2023-04-28 10:11:58] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:11:58] char_var is 
+INFO [2023-04-28 10:11:58] filter_var is 
+INFO [2023-04-28 10:11:58] sample_rate is 0.7
+INFO [2023-04-28 10:11:58] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:12:02] [样本分析] executing ...
+INFO [2023-04-28 10:12:02] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:12:08] [数据加载] execution
+INFO [2023-04-28 10:12:08] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:12:08] char_var is 
+INFO [2023-04-28 10:12:08] filter_var is 
+INFO [2023-04-28 10:12:08] sample_rate is 0.7
+INFO [2023-04-28 10:12:08] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:12:16] [样本分析] executing ...
+INFO [2023-04-28 10:12:17] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:12:20] [Woe转换] executing ...
+INFO [2023-04-28 10:12:20] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:12:23] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:12:23] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-28 10:12:23] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-28 10:12:29] [数据加载] execution
+INFO [2023-04-28 10:12:29] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:12:29] char_var is 
+INFO [2023-04-28 10:12:29] filter_var is 
+INFO [2023-04-28 10:12:29] sample_rate is 0.7
+INFO [2023-04-28 10:12:29] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:23:42] Start ScorCrd ...
+INFO [2023-04-28 10:23:46] [数据加载] execution
+INFO [2023-04-28 10:23:46] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:23:46] char_var is 
+INFO [2023-04-28 10:23:46] filter_var is 
+INFO [2023-04-28 10:23:46] sample_rate is 0.7
+INFO [2023-04-28 10:23:46] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:23:51] [样本分析] executing ...
+INFO [2023-04-28 10:23:52] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:23:58] [Woe转换] executing ...
+INFO [2023-04-28 10:23:58] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:24:01] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:24:01] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-28 10:24:01] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-28 10:24:06] [特征表现] executing ...
+INFO [2023-04-28 10:24:06] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-04-28 10:24:07] [特征表现] 随机森林 执行完成。
+INFO [2023-04-28 10:24:10] [模型评估] executing ...
+INFO [2023-04-28 10:24:10] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:24:10] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:24:10] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:24:10] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:24:17] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:24:23] [评分卡] executing ...
+INFO [2023-04-28 10:24:28] [模型评估] executing ...
+INFO [2023-04-28 10:24:28] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:24:28] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:24:28] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:24:28] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:24:35] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:24:37] [样本分析] 数据分布情况 执行完成。
+INFO [2023-04-28 10:24:38] [样本分析] 相关性 执行完成。
+INFO [2023-04-28 10:24:38] [样本分析] 箱线图 执行完成。
+INFO [2023-04-28 10:24:43] [评分卡] executing ...
+INFO [2023-04-28 10:24:43] [评分卡] executing ...
+INFO [2023-04-28 10:32:44] Start ScorCrd ...
+INFO [2023-04-28 10:32:50] [数据加载] execution
+INFO [2023-04-28 10:32:50] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:32:50] char_var is 
+INFO [2023-04-28 10:32:50] filter_var is 
+INFO [2023-04-28 10:32:50] sample_rate is 0.7
+INFO [2023-04-28 10:32:50] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:32:54] [样本分析] executing ...
+INFO [2023-04-28 10:32:55] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:32:58] [Woe转换] executing ...
+INFO [2023-04-28 10:32:58] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:33:00] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:33:01] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-28 10:33:01] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-28 10:33:04] [特征表现] executing ...
+INFO [2023-04-28 10:33:05] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-04-28 10:33:05] [特征表现] 随机森林 执行完成。
+INFO [2023-04-28 10:33:09] [模型评估] executing ...
+INFO [2023-04-28 10:33:09] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:33:09] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:33:09] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:33:09] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:33:16] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:33:22] [模型评估] executing ...
+INFO [2023-04-28 10:33:22] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:33:22] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:33:22] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:33:22] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:33:27] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:33:35] [模型评估] executing ...
+INFO [2023-04-28 10:33:35] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:33:35] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:33:35] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:33:35] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:33:43] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:34:39] Start ScorCrd ...
+INFO [2023-04-28 10:34:45] [数据加载] execution
+INFO [2023-04-28 10:34:45] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:34:45] char_var is 
+INFO [2023-04-28 10:34:45] filter_var is 
+INFO [2023-04-28 10:34:45] sample_rate is 0.7
+INFO [2023-04-28 10:34:45] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:34:46] [样本分析] executing ...
+INFO [2023-04-28 10:34:47] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:34:50] [Woe转换] executing ...
+INFO [2023-04-28 10:34:50] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:34:53] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:34:53] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-28 10:34:53] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-28 10:34:55] [特征表现] executing ...
+INFO [2023-04-28 10:34:55] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-04-28 10:34:56] [特征表现] 随机森林 执行完成。
+INFO [2023-04-28 10:34:58] [模型评估] executing ...
+INFO [2023-04-28 10:34:58] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:34:58] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:34:58] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:34:58] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:35:05] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:38:29] Start ScorCrd ...
+INFO [2023-04-28 10:38:38] [数据加载] execution
+INFO [2023-04-28 10:38:38] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:38:38] char_var is 
+INFO [2023-04-28 10:38:38] filter_var is 
+INFO [2023-04-28 10:38:38] sample_rate is 0.7
+INFO [2023-04-28 10:38:38] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:38:42] [样本分析] executing ...
+INFO [2023-04-28 10:38:42] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:38:47] [Woe转换] executing ...
+INFO [2023-04-28 10:38:47] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:38:50] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:38:50] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-28 10:38:50] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-28 10:38:53] [特征表现] executing ...
+INFO [2023-04-28 10:38:53] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-04-28 10:38:54] [特征表现] 随机森林 执行完成。
+INFO [2023-04-28 10:39:03] [模型评估] executing ...
+INFO [2023-04-28 10:39:03] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:39:03] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:39:03] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:39:03] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:39:10] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:39:13] [模型评估] executing ...
+INFO [2023-04-28 10:39:13] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:39:13] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:39:13] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:39:13] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:39:20] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:39:51] Start ScorCrd ...
+INFO [2023-04-28 10:40:06] Start ScorCrd ...
+INFO [2023-04-28 10:40:10] [数据加载] execution
+INFO [2023-04-28 10:40:10] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:40:10] char_var is 
+INFO [2023-04-28 10:40:10] filter_var is 
+INFO [2023-04-28 10:40:10] sample_rate is 0.7
+INFO [2023-04-28 10:40:10] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:40:12] [样本分析] executing ...
+INFO [2023-04-28 10:40:12] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:40:16] [Woe转换] executing ...
+INFO [2023-04-28 10:40:16] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:40:18] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:40:18] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-28 10:40:18] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-28 10:40:22] [特征表现] executing ...
+INFO [2023-04-28 10:40:22] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-04-28 10:40:23] [特征表现] 随机森林 执行完成。
+INFO [2023-04-28 10:40:26] [模型评估] executing ...
+INFO [2023-04-28 10:40:26] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:40:26] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:40:26] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:40:26] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:40:33] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:42:26] Start ScorCrd ...
+INFO [2023-04-28 10:42:33] [数据加载] execution
+INFO [2023-04-28 10:42:33] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:42:33] char_var is 
+INFO [2023-04-28 10:42:33] filter_var is 
+INFO [2023-04-28 10:42:33] sample_rate is 0.7
+INFO [2023-04-28 10:42:33] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:42:33] [数据加载] execution
+INFO [2023-04-28 10:42:33] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:42:33] char_var is 
+INFO [2023-04-28 10:42:33] filter_var is 
+INFO [2023-04-28 10:42:33] sample_rate is 0.7
+INFO [2023-04-28 10:42:33] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:42:35] [样本分析] executing ...
+INFO [2023-04-28 10:42:35] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:42:38] [Woe转换] executing ...
+INFO [2023-04-28 10:42:38] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:42:41] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:42:42] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-28 10:42:42] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-28 10:43:01] [特征表现] executing ...
+INFO [2023-04-28 10:43:01] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-04-28 10:43:02] [特征表现] 随机森林 执行完成。
+INFO [2023-04-28 10:43:05] [模型评估] executing ...
+INFO [2023-04-28 10:43:05] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:43:06] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:43:06] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:43:06] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:43:12] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:43:21] [模型评估] executing ...
+INFO [2023-04-28 10:43:21] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:43:21] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:43:21] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:43:21] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:43:28] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:48:48] Start ScorCrd ...
+INFO [2023-04-28 10:49:31] [数据加载] execution
+INFO [2023-04-28 10:49:31] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:49:31] char_var is 
+INFO [2023-04-28 10:49:31] filter_var is 
+INFO [2023-04-28 10:49:31] sample_rate is 0.7
+INFO [2023-04-28 10:49:31] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:49:33] [样本分析] executing ...
+INFO [2023-04-28 10:49:33] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:49:36] [Woe转换] executing ...
+INFO [2023-04-28 10:49:36] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:49:39] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:49:39] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-28 10:49:39] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-28 10:49:41] [特征表现] executing ...
+INFO [2023-04-28 10:49:41] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-04-28 10:49:42] [特征表现] 随机森林 执行完成。
+INFO [2023-04-28 10:49:44] [模型评估] executing ...
+INFO [2023-04-28 10:49:44] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:49:44] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:49:44] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:49:44] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:49:51] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:54:56] Start ScorCrd ...
+INFO [2023-04-28 10:55:02] [数据加载] execution
+INFO [2023-04-28 10:55:02] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:55:02] char_var is 
+INFO [2023-04-28 10:55:02] filter_var is 
+INFO [2023-04-28 10:55:02] sample_rate is 0.7
+INFO [2023-04-28 10:55:02] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:55:04] [样本分析] executing ...
+INFO [2023-04-28 10:55:04] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:55:07] [Woe转换] executing ...
+INFO [2023-04-28 10:55:07] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:55:10] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:55:10] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-28 10:55:10] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-28 10:55:11] [特征表现] executing ...
+INFO [2023-04-28 10:55:11] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-04-28 10:55:12] [特征表现] 随机森林 执行完成。
+INFO [2023-04-28 10:55:15] [模型评估] executing ...
+INFO [2023-04-28 10:55:15] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:55:15] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:55:15] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:55:15] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:55:22] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 10:57:26] Start ScorCrd ...
+INFO [2023-04-28 10:57:32] [样本分析] executing ...
+INFO [2023-04-28 10:57:35] [样本分析] executing ...
+INFO [2023-04-28 10:57:40] [Woe转换] executing ...
+INFO [2023-04-28 10:57:40] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:57:41] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:57:51] [数据加载] execution
+INFO [2023-04-28 10:57:51] input file is _20201130_v2.01.csv
+INFO [2023-04-28 10:57:51] char_var is 
+INFO [2023-04-28 10:57:51] filter_var is 
+INFO [2023-04-28 10:57:51] sample_rate is 0.7
+INFO [2023-04-28 10:57:51] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
+INFO [2023-04-28 10:57:53] [样本分析] executing ...
+INFO [2023-04-28 10:57:54] [样本分析] 变量分析 执行完成。
+INFO [2023-04-28 10:57:58] [Woe转换] executing ...
+INFO [2023-04-28 10:57:58] [Woe转换] 分箱 执行中...
+INFO [2023-04-28 10:58:01] [Woe转换] 分箱 执行完
+INFO [2023-04-28 10:58:01] [Woe转换] 训练集woe转换 执行完成
+INFO [2023-04-28 10:58:01] [Woe转换] 测试集woe转换 执行完成
+INFO [2023-04-28 10:58:03] [特征表现] executing ...
+INFO [2023-04-28 10:58:03] [特征表现] 变量分箱结果IV排序 执行完成。
+INFO [2023-04-28 10:58:04] [特征表现] 随机森林 执行完成。
+INFO [2023-04-28 10:58:05] [模型评估] executing ...
+INFO [2023-04-28 10:58:05] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 10:58:05] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 10:58:05] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 10:58:05] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 10:58:12] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 11:04:51] [模型评估] executing ...
+INFO [2023-04-28 11:04:51] [模型评估] glm逻辑回归 执行完成。
+INFO [2023-04-28 11:04:51] [模型评估] data_stepwise 执行完成。
+INFO [2023-04-28 11:04:51] [模型评估] 预测概率 执行完成。
+INFO [2023-04-28 11:04:51] [模型评估] 生成评分卡 执行完成。
+INFO [2023-04-28 11:04:58] [模型评估] 验证评分集 执行完成。
+INFO [2023-04-28 11:05:06] [评分卡] executing ...
+INFO [2023-04-28 11:05:23] [数据加载] execution
+INFO [2023-04-28 11:05:23] input file is _20201130_v2.01.csv
+INFO [2023-04-28 11:05:23] char_var is 
+INFO [2023-04-28 11:05:23] filter_var is 
+INFO [2023-04-28 11:05:23] sample_rate is 0.7
+INFO [2023-04-28 11:05:23] Sample Data：train = 2671, train bad= 2671, test= 1144, test bad= 1144
