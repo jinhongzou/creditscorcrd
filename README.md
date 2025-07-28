@@ -1,16 +1,131 @@
+ 
+
 # creditscorcrd
-## 简介
-基于R Shiny的信用评分卡生成器，可用于信用评分卡的生成与模型的训练。对于不太擅长编程的用户，可通过简单的操作完成评分卡的生成与模型的训练。
-## 功能
-    1. 样本加载
-    2. 样本分析
-    3. WOE转换
-    4. 特征表现
-    5. 模型评估
-    6. 评分卡
-## 运行方式
-    1）先导入库函数
-    source('你的目录/require_libs.R')
-    2）运行应用
-    runApp('你的目录', host="0.0.0.0", port=5555)
-    
+
+## 项目简介
+
+**项目名称：** ScorCrd  
+**项目简介：** ScorCrd 是一个专为零售银行部设计的评分卡开发工具，提供从数据加载到模型评估的完整流程支持。主要功能包括数据加载、样本分析、WOE 转换、特征表现分析、模型评估等。  
+**适用场景：** 零售信贷评分卡建模、风控建模、特征工程、模型评估等。  
+**项目链接：** [GitHub项目链接](https://github.com/jinhognzou/ScorCrd)  
+
+## 技术栈
+
+- R语言
+- Shiny
+- Shinydashboard
+- ggplot2
+- scorecard 包
+
+---
+
+## 安装和运行
+
+### 安装依赖库
+
+```r
+install.packages("shiny")
+install.packages("shinydashboard")
+install.packages("ggplot2")
+install.packages("scorecard")
+```
+
+### 运行项目
+
+```r
+library(shiny)
+runApp("path/to/ScorCrd")
+```
+
+---
+
+## 功能介绍
+
+### 1. 数据加载
+- 支持通过 `fileInput` 加载本地 CSV 文件。
+- 提供抽样比例设置，便于快速测试和调试。
+
+### 2. 样本分析
+- **样本概况**：展示数据集的基本统计信息。
+- **源样本数据**：查看原始数据样本。
+- **训练样本清单**：展示训练集样本。
+- **测试样本清单**：展示测试集样本。
+
+### 3. WOE 转换
+- 使用 `mWoebin` 函数对变量进行 WOE（Weight of Evidence）分箱转换。
+- 输出 WOE 转换后的数据框，可用于后续建模。
+
+### 4. 特征表现分析
+- **特征重要性**：展示 IV 值（Information Value）和随机森林方法计算的特征重要性。
+- **特征表现图**：可视化特征分布、WOE 趋势图等。
+
+### 5. 模型评估
+- **模型稳定性**：通过 PSI（Population Stability Index）评估模型稳定性。
+- **ROC 曲线**：展示训练样本和测试样本的 ROC 曲线及 AUC 值。
+
+---
+
+## 使用示例
+
+### 数据加载
+
+```r
+g_dt_file_tmp <- browse_dt(isolate(g_var$browse_file), mStr2c(isolate(g_var$charcolname)))
+```
+
+### 样本分析
+
+```r
+mod_dat <- mSample(g_dt$g_dt_file, isolate(g_var$sample_rate))
+```
+
+### WOE 转换
+
+```r
+bins <- mWoebin(dt = dt, y = y, print_step = 0)
+```
+
+---
+
+## 贡献指南
+
+我们欢迎社区贡献！请遵循以下流程：
+
+### 代码规范
+- 使用标准 R 语言编码风格。
+- 保持函数命名清晰、注释完整。
+
+### 提交流程
+1. `git add .` 添加修改文件
+2. `git commit -m "Your commit message"` 提交更改
+3. `git push` 推送至远程仓库
+
+### Pull Request
+- Fork 本项目，创建自己的分支。
+- 提交 PR 时，请简要说明修改内容和目的。
+
+---
+
+## 问题反馈
+
+如果您在使用过程中遇到任何问题，欢迎在 [GitHub Issues](https://github.com/jiinhongzou/creditscorcrd/issues) 中提交反馈或建议。
+
+---
+
+## 许可证
+
+本项目采用 MIT 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
+
+---
+
+## 作者
+
+- [jinhongzou](https://github.com/jinhongzou)
+
+---
+
+## 致谢
+
+感谢以下开源项目的支持：
+- [shiny](https://shiny.rstudio.com/)
+- [scorecard](https://cran.r-project.org/web/packages/scorecard/index.html)
